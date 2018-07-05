@@ -1,0 +1,1 @@
+Este ejercicio era para recordar que no todo tiene que estar dentro de una estructura, y que podemos reutilizar código o reorganizarlo para aprovechar al máximo lo que hacemos. Con poquitas herramientas, si nos tomamos un tiempo para pensar, podemos hacer grandes cosas y resolver muchos problemas a la vez. :smile: 
