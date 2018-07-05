@@ -1,9 +1,8 @@
 ---
 tags: []
 layout: input_right
-editor: custom
+editor: code
 type: problem
 extra_visible: false
 manual_evaluation: false
 choices: []
-name: "¿Qué gusto tiene el helado?"
