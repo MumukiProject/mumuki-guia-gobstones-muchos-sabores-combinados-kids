@@ -1,3 +1,9 @@
+<gs-attire
+  attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/attires/config.json">
+</gs-attire>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-muchos-sabores-combinados-kids/master/assets/toolbox.xml">
+</gs-toolbox>
+
 En el ejercicio anterior conocimos un bloque más para usar con las condiciones: `y también`, que sirve para ver si ocurren las dos condiciones a la vez. 
 
 Este bloque y el de la negación son **operadores**, como los que conocés de matemática (+, -, x y %); pero no operan con números, sino que conectan condiciones de diferentes maneras. Por eso, se los llaman **operadores** o **conectores lógicos**:
