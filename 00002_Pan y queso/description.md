@@ -8,4 +8,4 @@ Magui es una fiel clienta de nuestra heladería :girl::shaved_ice:. Le gusta tan
 
 Pero hasta ahora nos preguntamos por un solo sabor: _si había_ helado de chocolate (_bolitas negras_) o _si había_ de frutilla (_bolitas rojas_) :sweat_smile:. Veamos cómo hacer para preguntar si hay de ambos a la vez. :open_mouth:
 
-> Mirá cómo armamos la condición de esta _estructura de control_ para preguntar `si hay` helado de `chocolate y` de `frutilla` a la vez. Luego ejecutalo para ver qué pasa. 
+> Mirá cómo armamos la _condición_ de esta _estructura de control_ para preguntar `si hay` helado de `chocolate y` de `frutilla` a la vez. Luego ejecutalo para ver qué pasa. 
