@@ -13,5 +13,5 @@ Este bloque y el de la negación son **operadores**, como los que conocés de ma
 
 ¡Juguemos un poco más con este nuevo operador! :grin:
 
-> Armá la condición para preguntar si hay helado de vainilla (bolitas verdes) y de menta (bolitas azules). Si se cumplen ambas, ya te pusimos las acciones para que los sirva en el cono.
+> Armá la condición para preguntar `si hay` helado de vainilla (`bolitas verdes`) `y` de menta (`bolitas azules`). Si se cumplen ambas, ya te pusimos las acciones para que los sirva en el cono.
 
