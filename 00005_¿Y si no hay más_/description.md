@@ -8,4 +8,4 @@
 
 ¿Y cuál es el problema entonces? :confused: Que hasta ahora dijimos qué hacer si había chocolate, o qué hacer si no había, pero nunca hicimos las dos cosas a la vez. En este ejercicio te mostramos cómo programar ambas posibilidades. 
 
-> Tratá de entender este programa e imaginar qué hará. Luego ejecutalo.
+> Tratá de entender este `programa` e imaginar qué hará. Luego ejecutalo.
