@@ -7,9 +7,8 @@ teacher_info: "Las alternativas condicionales nos dejan tomar decisiones según 
   contexto en el que se ejecuta el programa. Suele ser confuso distinguir las acciones
   que van dentro de su estructura de las que van fuera. Recomendamos explorar bien
   estos límites: \n\n* ¿Se trata de una acción que debería realizarse aunque la condición
-  no se cumpla? \n* ¿Su realización depende de que ocurra algo antes que fue determinado
-  por la alternativa condicional? \n* ¿Tiene sentido intentar ponerle chips a un helado
-  que no voy a servir?"
+  no se cumpla? \n* ¿Su realización depende de que ocurra algo antes? \n* ¿Tiene sentido
+  intentar ponerle chips a un helado que no voy a servir?"
 language: gobstones
 id_format: "%05d"
 order:
